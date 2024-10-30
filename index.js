@@ -6,10 +6,10 @@ const fetch = require('node-fetch');
 const facebookScript = require('./facebook');
 (async () => {
     // Call a function from script.js if necessary
-    // await visitSchioScript();
+    await visitSchioScript();
     // await comuneSchioScript();
     // await comuneValdagnoScript();
-    await facebookScript();
+    // await facebookScript();
 
 })();
 

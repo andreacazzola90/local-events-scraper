@@ -6,8 +6,8 @@
 // module.exports = async () => {
 
 
-//     const email = 'andreacazzola90@gmail.com'; // Sostituisci con la tua email
-//     const password = 'mJXsTUe%myo0KP'; // Sostituisci con la tua password
+//     const email = ''; // Sostituisci con la tua email
+//     const password = ''; // Sostituisci con la tua password
 
 //     const page = await loginToFacebook(email, password);
 //     await scrapeEvents(page);
@@ -76,8 +76,8 @@ const fs = require('fs').promises;
 
 module.exports = async () => {
 
-    const email = 'andreacazzola90@gmail.com'; // Sostituisci con la tua email
-    const password = 'mJXsTUe%myo0KP'; // Sostituisci con la tua password
+    const email = ''; // Sostituisci con la tua email
+    const password = ''; // Sostituisci con la tua password
 
     const run = async () => {
         const browser = await puppeteer.launch({

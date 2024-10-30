@@ -1,86 +1,253 @@
 [
   {
-    "title": "S\nostegno Psicologico di Gruppo",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/sostegno-psicologico-di-gruppo"
+    "id": "1710318811",
+    "title": "IL CASTELLO CHE NON C'E'",
+    "category": "Mostre",
+    "description": "IL CASTELLO CHE NON C'E'\nSTORIE DI ACQUA, FUOCO E TERRA\nPreparati ad un viaggio nel passato di 1000 anni!\nAlla mostra 4.0, \"Il Castello che non c'è\", avrai la possibilità di indossare un Visore VR e passeggiare virtualmente fra le mura, gli spalti, le torri e le casematte della fortezza che dominava il borgo di Schio e l'intero Alto Vicentino.\nVideo mapping, modelli 3D ed effetti scenografici per catapultare i visitatori nell'epoca medievale alla scoperta della storia del nostro territorio, direttamente dalle prospettive dei nostri avi!\n \n \n \n \n\nORARI DI APERTURA\n\nSabato e Domenica   10.00 - 12.30 / 16.00 - 18.30\n\nL' apertura della Mostra è prolungata fino a Domenica 10 novembre 2024\n\nPRENOTAZIONE BIGLIETTI su ilcastellochenonce.it",
+    "data": {
+      "start": "2024-04-06 16:00",
+      "end": "2024-11-10 19:30"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2250/show_castello_tablum_01.jpg",
+    "place": "Largo Fusinelle - Galleria conte, Schio",
+    "link": "https://www.visitschio.it/it/eventi/mostre/il-castello-che-non-c-e"
   },
   {
-    "title": "O\nTTOBRE ROSA 2024",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/ottobre-rosa-2024"
+    "id": "1680680159",
+    "title": "Riapertura Giardino Jacquard 2024",
+    "category": "Promozione",
+    "description": "RIAPERTURA GIARDINO JACQUARD\n\nSiamo pronti all'apertura del Giardino Jacquard.\n\nDal 27 aprile, ogni sabato e domenica dalle 16 alle 19, sarà possibile visitare il nostro meraviglioso giardino tardo-romantico.\n\nOgni sabato e domenica, poi, alle 17 organizziamo anche delle visite guidate per scoprire i suoi angoli più suggestivi e nascosti., per cui non è necessaria la prenotazione e sono gratuite!\n\nVi aspettiamo!\n\n \n\n \n\nOTTOBRE 2024\n\ndalle 15.00 alle 18.00 con visita guidata gratuita alle 16.00\n\n ",
+    "data": {
+      "start": "2024-04-27 16:00",
+      "end": "2024-10-31 19:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/1765/show_Apertura_Giardino_Jacquard_pannelli_page-0001.jpg",
+    "place": "Via Pasubio, Schio",
+    "link": "https://www.visitschio.it/it/eventi/promozione/riapertura-giardino-jacquard"
   },
   {
-    "title": "A\nzioni Solidali Vicentine 2024",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/azioni-solidali-vicentine-2024"
+    "id": "1728459005",
+    "title": "A CARTE SCOPERTE dai Codici miniati alla Stampa",
+    "category": "Mostre",
+    "description": "A CARTE SCOPERTE\nDAI CODICI MINIATI ALLA STAMPA\n\nEsposizione di libri antichi della Biblioteca Civica\n\nINGRESSO LIBERO\n\n- Visite guidate speciali e Passeggiate in Città\n- Laboratori per bambini dai 16 agli 11 anni\n\n(su prenotazione: info@cooperativatrama.it / 347 4666141)",
+    "data": {
+      "start": "2024-10-12 09:00",
+      "end": "2024-01-04 18:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2650/show_A_Carte_Scoperte.jpg",
+    "place": "Via Carducci 33, Schio",
+    "link": "https://www.visitschio.it/it/eventi/mostre/a-carte-scoperte-dai-codici-miniati-alla-stampa"
   },
   {
-    "title": "L\nibri a merenda",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/libri-a-merenda"
+    "id": "1729166881",
+    "title": "DOPO DI NOI",
+    "category": "Incontri",
+    "description": "DOPO DI NOI\n\nStrumenti per tutelare il futuro (e il presente!) delle persone con disabilità e fragilità\n\n \n\n \n\nINGRESSO LIBERO",
+    "data": {
+      "start": "2024-10-29 17:00",
+      "end": "2024-10-29 19:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2691/show_locandina_Dopo_di_noi_-_locandina_Dopo_di_noi.png",
+    "place": "via Tito Livio, 23-25, Schio",
+    "link": "https://www.visitschio.it/it/eventi/incontri/dopo-di-noi"
   },
   {
-    "title": "M\nonte Pulli, voci della miniera",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/monte-pulli-voci-della-miniera"
+    "id": "1727703650",
+    "title": "ciacolando cammino",
+    "category": "Escursioni",
+    "description": "ciacolando cammino\n\nCamminare in compagnia è la migliore \"ricetta\" di sempre.\n\nLo scopo è di coniugare il piacere del cammino all'opportunità di creare leagmi sociali e vivere esperienze comunitarie durante i percorsi, che possono variare da semplici passeggiate urbane, i mercoledì pomeriggio, a veri e propri trekking in collina, i giovedì mattina.\n\n \n\nINGRESSO LIBERO\n\nCALENDARIO OTTOBRE QUI SOTTO",
+    "data": {
+      "start": "2024-10-30 14:30",
+      "end": "2024-10-30 18:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2632/show_photo1719818377_1_.jpeg",
+    "link": "https://www.visitschio.it/it/eventi/passeggiate/ciacolando-cammino-21001a50-8290-438e-8a0b-9a0fb0e425ae"
   },
   {
-    "title": "I\nL FUTURO POSSIBILE",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/il-futuro-possibile"
+    "id": "1728638120",
+    "title": "Mercoledì delle App! - Google play e App store",
+    "category": "Incontri",
+    "description": "Mercoledì delle App!\nGOOGLE PLAY E APP STORE\n\nOgni incontro programmato per imparare a utilizzare le applicazioni di uso comune è un'opportunità per espandere le competenze e affrontare il futuro con maggiore fiducia.\n\n \n\nINCONTRI GRATUITI E AD INGRESSO LIBERO",
+    "data": {
+      "start": "2024-10-30 17:00",
+      "end": "2024-10-30 18:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2664/show_Mercoled%C3%AC_delle_app_ottobre3.png",
+    "place": "via Tito Livio, 23-25, Schio",
+    "link": "https://www.visitschio.it/it/eventi/incontri/mercoledi-delle-app-2b6e81c5-792a-49e6-880d-7f50aa95c6c8"
   },
   {
-    "title": "P\nG LAB AGENDA 2030 | Per giovani fra i 13 e i 17 anni",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/pg-lab-agenda-2030-per-giovani-fra-i-13-e-i-17-anni"
+    "id": "1727423947",
+    "title": "Gli scambi tra cinema e pittura - 2",
+    "category": "Cinema",
+    "description": "Gli scambi tra cinema e pittura - 2\n\nGli infiniti scambi tra cinema e pittura proseguono in un incontro sulle ali della creatività attraverso l'analisi di alcune sequenze particolarmente significvative, tratte dai film di Pedro Almodòvar e Stanley Kubrick.\n\n \n\nINGRESSO LIBERO",
+    "data": {
+      "start": "2024-10-30 20:30",
+      "end": "2024-10-30 22:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2618/show_pexels-cottonbro-3945323.jpg",
+    "place": "Via Pasubio 52, Schio",
+    "link": "https://www.visitschio.it/it/eventi/cinema/gli-scambi-tra-cinema-e-pittura-2-321ad75f-75bd-46c0-b3cd-be5dee29242f"
   },
   {
-    "title": "F\notoricerca: 70° anniversario",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/fotoricerca-70b0-anniversario"
+    "id": "1709545773",
+    "title": "Diodato nei teatri",
+    "category": "Teatro",
+    "description": "SPETTACOLI\nSCHIO Teatro Astra\n\n \n\n31 OTT     Diodato nei teatri\n\nInizio spettacoli ore 21.00\n\n \n\nPREVENDITE\n\nwww.ticketone.com\n\nwww.scoppiospettacoli.it\n\nwww.vivaticket.it",
+    "data": {
+      "start": "2024-10-31 21:00",
+      "end": "2024-10-31 23:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2245/show_spettacoli_Teatro-Astra.jpg",
+    "link": "https://www.visitschio.it/it/eventi/teatro/spettacoli"
   },
   {
-    "title": "M\nostra di FAKE NEWS (in Work in Progress)",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/mostra-di-fake-news-in-work-in-progress"
+    "title": "COLLEZIONANDO",
+    "category": "Promozione",
+    "description": "COLLEZIONANDO\nIl Mercatino di Schio\n\nTroverete una vasta gamma di oggetti provenienti dal passato, dal militaria alle collezioni vintage, dai vinili rari all'hobbistica unica: un'opportunità per gli appassionati e i curiosi di esplorare oggetti che raccontano storie, scoprire pezzi unici e fare affari insoliti.\n\n \n\nINGRESSO LIBERO",
+    "data": {
+      "start": "2024-11-01 07:00",
+      "end": "2024-11-01 20:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2687/show_collezionando2024.png",
+    "link": "https://www.visitschio.it/it/eventi/promozione/2194-event"
   },
   {
-    "title": "2\n100 | Come sarà l’Asia, come saremo noi",
-    "link": "https://www.comune.valdagno.vi.it/eventi/libri/2100-come-sara-l2019asia-come-saremo-noi"
+    "id": "1717662174",
+    "title": "Grande figlio di p*****a",
+    "category": "Teatro",
+    "description": "Grande figlio di p*****a\n\nGrande figlio di p*****a è lo spettacolo di Eleazaro Rossi che lo proietta nel gotha della drammaturgia.\nUn trattato di umanità e umorismo, mai volgare, che procede fermo e sicuro nel solco tracciato dal principe della risata: Totò.\n\nSpettacolo in costume, l’artista è travestito da se stesso, e completamente privo di fumi e raggi laser, fatta eccezione per quelli procurati all’interno degli spettatori tramite il soffocamento indotto dall’atarassia.\n\nEcco una serie di temi che non verranno assolutamente trattati durante la rappresentazione di quello che i più noti quotidiani nazionali, escluso Il Messaggero, hanno definito “capolavoro”:\n- la probabile acquisizione da parte della multinazionale John Deere dell’italiana Carraro Group\n- l’utilizzo di liquidi ad altissima pressione nel taglio dei metalli\n- la precoce dipartita di Michela Murgia (scrittrice)\nGli introiti verranno devoluti nella loro interezza all’agenzia delle entrate degli Emirati Arabi Uniti.\n\nInfo Biglietti: https://tinyurl.com/3daszkab\n\n ",
+    "data": {
+      "start": "2024-11-01 21:00",
+      "end": "2024-11-01 23:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2381/show_teatroit-eleazaro-rossi-grande-figlio-di-date-biglietti.jpg",
+    "link": "https://www.visitschio.it/it/eventi/teatro/grande-figlio-di-p-a"
   },
   {
-    "title": "O\nRIENTAMEET 2024",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/orientameet-2024"
+    "id": "1730202881",
+    "title": "Storie di cartai, tipografi e librai",
+    "category": "Escursioni",
+    "description": "Storie di cartai, tipografi e librai\nPASSEGGIATE ALLA SCOPERTA DELLA CITTÀ\n\nIn occasione della mostra A CARTE SCOPERTE Dai codici miniati alla stampa nei 550 anni dall'introduzione della stampa nel Vicentino\n\n \n\nINGRESSO LIBERO\n\nPRENOTAZIONE OBBLIGATORIA : info@cooperativatrama.it  | 347 4666141",
+    "data": {
+      "start": "2024-11-03 10:00",
+      "end": "2024-11-03 12:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2726/show_Volantino_Passeggiate_in_citt%C3%A0-_novembre_2024.jpg",
+    "place": "Via Carducci 33, Schio",
+    "link": "https://www.visitschio.it/it/eventi/passeggiate/storie-di-cartai-tipografi-e-librai"
   },
   {
-    "title": "F\nesta d'Autunno 2024",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/festa-dautunno-2024"
+    "id": "1728909823",
+    "title": "Chiesa di San Francesco: i sigilli tombali e il patrimonio lapideo",
+    "category": "Incontri",
+    "description": "Chiesa di San Francesco: i sigill itombali e il patrimonio lapideo\n\nVisita guidata ad INGRESSO LIBERO\n\nApertura della chiesa alle 15.00 fino alle 18.00",
+    "data": {
+      "start": "2024-11-03 16:00",
+      "end": "2024-11-03 17:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2670/show_chiesa_di_san_francesco.png",
+    "place": "Via Baratto, Schio",
+    "link": "https://www.visitschio.it/it/eventi/incontri/chiesa-di-san-francesco-i-sigill-itombali-e-il-patrimonio-lapideo"
   },
   {
-    "title": "C\nhe tipo di lettore sono?",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/che-tipo-di-lettore-sono"
+    "id": "1729850518",
+    "title": "Paesaggi Scledensi",
+    "category": "Incontri",
+    "description": "Paesaggi Scledensi\nLABORATORIO CREATIVO\n\nUn viaggio tra le bellezze e curiosità di Schio\n\nCosa verrà realizzato? Cartoline originalissime e un taccuino da viaggio !\n\n \n\nINGRESSO LIBERO SU PRENOTAZIONE\n\nper ragazzi dai 6 ai 10 anni",
+    "data": {
+      "start": "2024-11-03 16:30",
+      "end": "2024-11-03 18:30"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2714/show_laboratorio_Paesaggi_scledensi.jpg",
+    "place": "Via Pasini 42, SCHIO",
+    "link": "https://www.visitschio.it/it/eventi/incontri/paesaggi-scledensi"
   },
   {
-    "title": "Sicurezza dell'acqua e prevenzione delle malattie infettive",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/sicurezza-dellacqua-e-prevenzione-delle-malattie-infettive"
+    "id": "1729579144",
+    "title": "106^ GIORNATA DELL'UNITÀ NAZIONALE - FESTA DELLE FORZE ARMATE",
+    "category": "Commemorazioni",
+    "description": "106^ GIORNATA DELL'UNITÀ NAZIONALE\nFESTA DELLE FORZE ARMATE\n\nIn occasione della 106 Giornata dell’Unità Nazionale e della Festa delle Forze Armate, lunedì 4 novembre si terrà un momento ufficiale commemorativo al Sacrario Militare di SS. Trinità.\n\nAlle 9.15 è prevista la formazione del corteo a Palazzo Fogazzaro, per poi proseguire lungo le vie del centro fino in Piazza Rossi per l'Alzabandiera.\n\nAlle 10.15 al Sacrario Militare di SS. Trinità si terrà la commemorazione ufficiale e la celebrazione della Santa Messa.\n\nAnche quest'anno la cerimonia unisce i Comuni di Schio, Santorso e San Vito di Leguzzano.\n\nLe associazioni e le scuole sono invitate a presenziare.\n\n \n\nIn caso di maltempo la cerimonia si svolgerà direttamente dalle 10.00 al Sacrario Militare di SS. Trinità\n\nINGRESSO LIBERO",
+    "data": {
+      "start": "2024-11-04 09:15",
+      "end": "2024-11-04 12:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2694/show_a5_invito_4novembre_-_a5_invito_4novembre.jpg",
+    "place": "Via Pasini 42, SCHIO",
+    "link": "https://www.visitschio.it/it/eventi/commemorazioni/festa-delle-forze-armate"
   },
   {
-    "title": "L\nibri a merenda",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/libri-a-merenda-1"
+    "id": "1726735553",
+    "title": "MATTEOTTI Anatomia di un fascismo",
+    "category": "Teatro",
+    "description": "MATTEOTTI - Anatomia di un fascismo\n\nOttavia Piccolo e l’Orchestra Multietnica di Arezzo\n\nDa oltre vent’anni Schio Grande Teatro porta avanti la vocazione più profondamente civile del teatro attraverso le parole di artisti e personalità che mettono al centro l’attualità politica e sociale, le vicende che hanno segnato l’Italia e le personalità rilevanti a livello internazionale. L’apertura di stagione è affidata ad Ottavia Piccolo, artista amata dal pubblico di Schio, che insieme ai Solisti dell’Orchestra Multietnica di Arezzo torna al Teatro Civico per raccontare un pezzo di Storia italiana. 10 giugno 1924. Alcuni testimoni dichiarano di aver assistito a una colluttazione in una vettura e di aver visto espellere il tesserino del deputato polesano. Matteotti (anatomia di un fascismo) ripercorre l’ascesa di quel fenomeno eversivo che Giacomo Matteotti seppe comprendere, fin dall’inizio, in tutta la sua estrema gravità, a differenza di molti che non videro o non vollero vedere. Matteotti  l’oppositore, il pacifista, lo studioso, l’amministratore, il riformista – prese la parola, pubblicamente e instancabilmente: una parola chiara, veritiera, fondata sui fatti, indiscutibile. Tempesta, così lo chiamavano. Uno col sangue caldo.\n\n \n\n \n\nBiglietti\nPlatea e palchi I ordine: intero €22,00 | ridotto over 65 €20,00 | ridotto under 35 €14,00\nGalleria, palchi II ordine e loggione: intero €18,00 | ridotto over 65 €16,00 | ridotto under 35 €11,00",
+    "data": {
+      "start": "2024-11-05 21:00",
+      "end": "2024-11-05 23:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2587/show_Screenshot_2024-09-19_at_10-03-33_Arrivederci_alla_prossima_stagione____Fondazione_Teatro_Civico_di_Schio.png",
+    "place": "Via Pietro Maraschin 19, Schio",
+    "link": "https://www.visitschio.it/it/eventi/teatro/matteotti-anatomia-di-un-fascismo"
   },
   {
-    "title": "B\nirds and Watching",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/bird-and-watching"
+    "id": "1729839761",
+    "title": "CIACOLANDO CAMMINO",
+    "category": "Escursioni",
+    "description": "CIACOLANDO CAMMINO\n\nCamminare in compagnia è la migliore \"ricetta\" di sempre.\n\nLo scopo è di coniugare il piacere del cammino all'opportunità di creare leagmi sociali e vivere esperienze comunitarie durante i percorsi, che possono variare da semplici passeggiate urbane, i mercoledì pomeriggio, a veri e propri trekking in collina, i giovedì mattina.\n\n \n\nINGRESSO LIBERO",
+    "data": {
+      "start": "2024-11-06 14:30",
+      "end": "2024-11-06 17:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2711/show_volantino_ciacolando_Novembre_04.png",
+    "link": "https://www.visitschio.it/it/eventi/passeggiate/ciacolando-cammino-848a6bf8-fedc-43e6-82c8-7a39ce42b7a6"
   },
   {
-    "title": "F\nara in Rosa",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/fara-in-rosa"
+    "title": "CIACOLANDO CAMMINO",
+    "category": "Escursioni",
+    "description": "CIACOLANDO CAMMINO\n\nCamminare in compagnia è la migliore \"ricetta\" di sempre.\n\nLo scopo è di coniugare il piacere del cammino all'opportunità di creare leagmi sociali e vivere esperienze comunitarie durante i percorsi, che possono variare da semplici passeggiate urbane, i mercoledì pomeriggio, a veri e propri trekking in collina, i giovedì mattina.\n\n \n\nINGRESSO LIBERO",
+    "data": {
+      "start": "2024-11-07 14:30",
+      "end": "2024-11-07 17:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2712/show_volantino_ciacolando_Novembre_04.png",
+    "link": "https://www.visitschio.it/it/eventi/passeggiate/2711-event"
   },
   {
-    "title": "M\nostra della Biblioteca itinerante \"Lettori alla pari\"",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/mostra-della-biblioteca-itinerante-lettori-alla-pari"
+    "title": "VIKING DAY",
+    "category": "Mostre",
+    "description": "VIKING DAY\n \nMostra al Falcetto d'oro\n\n Dal 9 al 16 novembre, mostra di tavole tratte dai libri e bozzetti preparatori al Falcetto d'Oro, per info 375 8360123.\n\nLaboratorio di disegno \"CHIBI VIKINGS\" - Palazzo Fogazzaro\n\nLo stile chibi, con la sua peculiarità di teste grandi e corpi piccoli, incarna un'adorabile espressione di gioia, originariamente diffusa in Giappone e ora ampiamente popolare nello stile manga, negli anime, nei cartoon e nel fantasy attraverso la forma di personaggi d'animazione.\n\nPer info e prenotazioni 0445 691343/museocivico@comune.schio.vi.it\n\nPresentazione di IVAR - Rogaland - Palazzo Fogazzaro\n\nIncontro con l'autrice Alice Zanivan e presentazione del secondo volume.\n\nIVAR è una serie epic-fantasy liberamente ispirata alla mitologia norrena e ambientata tra i drammatici paesaggi norvegesi.\nSarà composta in tutto da 4 volumi, di cui attualmente sono già disponibili i primi due: Østlandet e Rogaland.",
+    "data": {
+      "start": "2024-11-09 10:00",
+      "end": "2024-11-16 19:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2715/show_LOCANDINA_FALCETTO_D_ORO_MUSEO_CIVICO_SCHIO__Post_Instagram__1_.png",
+    "place": "Via Fratelli Pasini, 49, Schio",
+    "link": "https://www.visitschio.it/it/eventi/mostre/2713-event"
   },
   {
-    "title": "C\noncerti per Santa Cecilia",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/concerti-per-santa-cecilia-2"
+    "id": "1729848872",
+    "title": "VIKING DAY",
+    "category": "Incontri",
+    "description": "VIKING DAY\nLaboratorio di disegno \"CHIBI VIKINGS\"\n\nLo stile chibi, con la sua peculiarità di teste grandi e corpi piccoli, incarna un'adorabile espressione di gioia, originariamente diffusa in Giappone e ora ampiamente popolare nello stile manga, negli anime, nei cartoon e nel fantasy attraverso la forma di personaggi d'animazione. \n\nPresentazione di IVAR - Rogaland\n\nIncontro con l'autrice Alice Zanivan e presentazione del secondo volume.\n\nIVAR è una serie epic-fantasy liberamente ispirata alla mitologia norrena e ambientata tra i drammatici paesaggi norvegesi.\nSarà composta in tutto da 4 volumi, di cui attualmente sono già disponibili i primi due: Østlandet e Rogaland.\n\nMostra al Falcetto d'oro\n\n Dal 9 al 16 novembre, mostra di tavole tratte dai libri e bozzetti preparatori",
+    "data": {
+      "start": "2024-11-09 14:30",
+      "end": "2024-11-09 16:30"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2713/show_LOCANDINA_FALCETTO_D_ORO_MUSEO_CIVICO_SCHIO__Post_Instagram__1_.png",
+    "place": "Via Pasini 42, SCHIO",
+    "link": "https://www.visitschio.it/it/eventi/incontri/viking-day"
   },
   {
-    "title": "S\nportello dislessia",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/sportello-dislessia-1"
-  },
-  {
-    "title": "P\narental control - Corso di formazione gratuito",
-    "link": "https://www.comune.valdagno.vi.it/eventi/eventi-1/parental-control-corso-di-formazione-gratuito"
+    "id": "1728461620",
+    "title": "I SABATI DELL' ARTE",
+    "category": "Mostre",
+    "description": "I SABATI DELL'ARTE\n\nLa pittura del '600 a Venezia - Dalle \"Sette Maniere\" a Bernardo Strozzi\n\nMostra d'arte a cura di Silvia Anapoli\n\n \n\n\nINGRESSO LIBERO\nPalazzo Toaldi Capra - via Pasubio 52, Schio\n\n ",
+    "data": {
+      "start": "2024-11-09 16:00",
+      "end": "2024-11-09 18:00"
+    },
+    "image": "https://www.visitschio.it/system/uploads/event/main_image/2652/show_IMG-20241004-WA0012.jpg",
+    "place": "Via Pasubio 52, Schio",
+    "link": "https://www.visitschio.it/it/eventi/mostre/i-sabati-dell-arte-ef057f83-38f5-43ae-9db7-a6b1600f14c8"
   }
 ]
